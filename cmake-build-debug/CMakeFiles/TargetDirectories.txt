@@ -1,0 +1,3 @@
+C:/Users/user/CLionProjects/homework-3-dilnoza471/cmake-build-debug/CMakeFiles/homework_3_dilnoza471.dir
+C:/Users/user/CLionProjects/homework-3-dilnoza471/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/CLionProjects/homework-3-dilnoza471/cmake-build-debug/CMakeFiles/rebuild_cache.dir

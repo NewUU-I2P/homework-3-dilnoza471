@@ -1,0 +1,12 @@
+# ninja log v5
+0	258	7213248579463205	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_2.cpp.obj	20b7962116023d5d
+9	286	7213248579732489	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_1.cpp.obj	23ba7a58e7284b53
+286	391	7213248580789671	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_5.cpp.obj	5caba9f7bff4d61f
+391	1018	7213248587073081	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_3.cpp.obj	1c6fccb89f720713
+15	1023	7213248587132923	CMakeFiles/homework_3_dilnoza471.dir/main.cpp.obj	bad5bb7a469e13d1
+259	1100	7213248587901875	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_4.cpp.obj	e4ef63e2318f7c21
+7	341	7213275298217610	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_2.cpp.obj	20b7962116023d5d
+342	572	7213275300509513	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_5.cpp.obj	5caba9f7bff4d61f
+26	959	7213275304438807	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_3.cpp.obj	1c6fccb89f720713
+16	1210	7213275306947634	CMakeFiles/homework_3_dilnoza471.dir/main.cpp.obj	bad5bb7a469e13d1
+572	1396	7213275308788482	CMakeFiles/homework_3_dilnoza471.dir/problems/problem_4.cpp.obj	e4ef63e2318f7c21
