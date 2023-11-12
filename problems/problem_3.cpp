@@ -1,6 +1,6 @@
 #include <string>
 using namespace std;
-string problemSolution3(char S,float height) {
+string problemSolution3(float height,char S) {
     string res;
     if (S == 'M'){
         if (height <1.70) res = "Short";
